@@ -1,3 +1,4 @@
+# LatticeGHZlike
 Code repo for "Generating large-Scale GHZ-like states in lattice spin systems"
 
 File names with uppercase initials are frontend codes (codes to run).
