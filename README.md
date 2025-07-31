@@ -26,4 +26,8 @@ Workflow:
 
     compileC.py -> ClosedEvo.py -> ClosedOccuParity -> Fig. S1
 
+Packages used:
+
+    numpy, scipy, matplotlib, cupy, pytorch, jax, dynamiqs
+
 A more efficient CUDA-based implementation for sweeping parameters will be uploaded in the future.
