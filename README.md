@@ -25,3 +25,5 @@ Workflow:
     Dephasing.py -> Fig. 4a -> DephasingParity.py -> Fig. 4b
 
     compileC.py -> ClosedEvo.py -> ClosedOccuParity -> Fig. S1
+
+A more efficient CUDA-based implementation for sweeping parameters will be uploaded in the future.
